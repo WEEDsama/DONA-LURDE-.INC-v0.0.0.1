@@ -24,21 +24,35 @@
     <div class="container">
         <div class="row justify-content-around align-items-center">
             <div class="col-md-4 text-center p-3" style=" background-color: white; margin: 3vw;">
+            <a class="link-dark" href="" style="text-decoration:none;">
+                <img src="img/hackerman.png" alt="" class="img-fluid">
                 <h4 href="#">PROGRAMAÇÃO</h4>
+            </a>
             </div>
             <div class="col-md-4 text-center p-3" style=" background-color: white; margin: 3vw;">
+            <a class="link-dark" href="" style="text-decoration:none;">
+                <img src="" alt="" class="img-fluid">
                 <h4 href="#">IDIOMAS</h4>
+            </a>
             </div>
             <div class="col-md-4 text-center p-3" style=" background-color: white; margin: 3vw;">
-            <img src="img/historia.png" alt="" class="img-fluid ">
+            <a class="link-dark" href="" style="text-decoration:none;">
+                <img src="img/historia.png" alt="" class="img-fluid ">
                 <h4 href="#">HISTÓRIA</h4>
+            </a>
             </div>
             <div class="col-md-4 text-center p-3" style=" background-color: white; margin: 3vw;">
+            <a class="link-dark" href="" style="text-decoration:none;">
+                <img src="" alt="" class="img-fluid">
                 <h4 href="#">FILMES</h4>
+            </a>
             </div>
+            
             <div class="col-md-4 text-center p-3" style=" background-color: white; margin: 3vw;">
+                <a class="link-dark" href="games.php" style="text-decoration:none;">
                 <img src="img/games.png" alt="" class="img-fluid">
                 <h4 href="#">GAMES</h4>
+            </a>
             </div>
         </div>
     </div>
